@@ -15,3 +15,6 @@ print(list)
 print(list[-1])
 print(list[2:4])
 print(list[::-1])
+
+list.reverse()
+print(list)
